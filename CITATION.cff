@@ -5,3 +5,4 @@ type: software
 authors:
   - family-names: Janning
     given-names: Johannes
+repository-code: "https://github.com/JohannesJanning/Preference-Robust-eVTOL-Design"
