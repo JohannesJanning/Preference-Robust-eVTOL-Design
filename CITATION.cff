@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below and cite the underlying model paper."
+title: "Preference-Robust eVTOL Design"
+type: software
+authors:
+  - family-names: Janning
+    given-names: Johannes

@@ -108,3 +108,11 @@ Each run creates a timestamped folder under `Robust Decision Making/results/` co
 ## Scope and next steps
 
 This repository is an exploratory research demonstrator, not a validated aircraft-design or certification tool. Planned extensions include bounded and probabilistic preference information, nonlinear utility functions, probabilistic parameter uncertainty, and adaptive vehicle-operation co-design.
+
+## Model provenance and citation
+
+The underlying eVTOL multidisciplinary design model builds on:
+
+> **Janning, J., Armanini, S. F., & Fasel, U. (2024).** [Future Pathways for eVTOLs: A Design Optimization Perspective](https://doi.org/10.48550/arXiv.2412.18078). *arXiv:2412.18078 [eess.SY]*.
+
+If you use this research code, please cite the repository using GitHub's **Cite this repository** function and the underlying model paper above. A software DOI can be added after archiving a stable release.
