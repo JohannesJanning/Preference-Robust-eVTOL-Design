@@ -1,0 +1,17 @@
+{
+  "step": 0.5,
+  "n_scenarios": 6,
+  "n_candidates": 7,
+  "weights_note": "Grid sampling used for simplex space-filling, not probabilistic belief.",
+  "objective_note": "Optimization and regret are based on Utility_Norm for the fixed-baseline model in optimize_fixed_baseline.py.",
+  "run_label": "run 04 - 16:18 - 12.08.2026",
+  "robust_choice_minimax_regret": {
+    "candidate": "centroid",
+    "max_regret": 0.2742362638642172,
+    "mean_regret": 0.10353029253037065,
+    "p90_regret": 0.2711882959124491,
+    "satisficing_frac_regret_le_0p2": 0.6666666666666666
+  },
+  "robust_candidate": "centroid",
+  "output_dir": "/Users/johannesjanning/Library/CloudStorage/Dropbox/Mac (3)/Documents/Research Coding/DMDU eVTOL aero model update/Robust Decision Making/results/run 04 - 16:18 - 12.08.2026"
+}
