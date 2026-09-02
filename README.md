@@ -37,7 +37,7 @@ $$
 No probability distribution is assigned to the weights. Plausible valuation regimes are represented by a simplex lattice:
 
 $$
-\mathcal W_{\Delta w}=\left\{\mathbf{w}\geq0:\;\sum_{k=1}^{K}w_k=1,\;w_k\in\{0,\Delta w,\ldots,1\}\right\}.
+\mathcal{W}_{\Delta w}=\lbrace\mathbf{w}\geq 0 \mid \sum_{k=1}^{K}w_k=1,\; w_k\in\lbrace 0,\Delta w,\ldots,1\rbrace\rbrace.
 $$
 
 For three criteria, $\Delta w=0.05$ gives 231 lattice scenarios; the centroid is added as a reference design.
